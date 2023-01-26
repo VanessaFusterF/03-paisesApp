@@ -8,7 +8,7 @@ import { Country } from '../../interfaces/pais.interface';
 @Component({
   selector: 'app-ver-pais',
   templateUrl: './ver-pais.component.html',
-  styleUrls: ['./ver-pais.component.css']
+  styles: []
 })
 export class VerPaisComponent implements OnInit{
   
